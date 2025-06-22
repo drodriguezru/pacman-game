@@ -1,0 +1,5 @@
+# Trata los .hex como binarios (sin conversión LF ↔ CRLF)
+*.hex binary
+
+# Normaliza el resto de archivos de texto a LF
+* text=auto
