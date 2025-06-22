@@ -12,4 +12,4 @@ El juego muestra en pantalla la **puntuación** actual 🏅, guarda el **récord
 **Universidad Nacional de Trujillo**
 
 ## 👥 Integrantes
-- Diana Rebecca Rodríguez Ruiz 😊
+- Rodríguez Ruiz, Diana 
